@@ -25,7 +25,6 @@ con combinaciones de dos letras (ai, enter, imes, ober, ufat).</p>
 
 <h2 align="left">Cómo pueden usarlo los usuarios </h2>
 <ul>
-<li>Acceda a la aplicación web a través del siguiente enlace https://proyecto-three-ivory.vercel.app/.</li>
 <li>Ingresa el mensaje que deseas encriptar o desencriptar en el cuadro de texto principal.</li>
 <li>Ten en cuenta que la aplicación solo admite letras minúsculas y sin acentos.</li>
 <li>Haga clic en el botón "Encriptar" para codificar su mensaje o "Desencriptar" para decodificarlo.</li>
